@@ -1,0 +1,6 @@
+[submodule "descontrolada"]
+	path = descontrolada
+	url = https://github.com/pecras/descontrolada
+[submodule "Api_Descontrolada_loja"]
+	path = Api_Descontrolada_loja
+	url = https://github.com/pecras/Api_Descontrolada_loja
